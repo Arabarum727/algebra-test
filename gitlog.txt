@@ -1,0 +1,26 @@
+*   commit 786a3ecd943f5ec1f712c1aa1db36db4441eb606 (HEAD -> master, origin/master)
+|\  Merge: 573cf2a 550fe6b
+| | Author: Arabarum727 <jernejzagernik@proton.me>
+| | Date:   Fri Jan 16 11:03:39 2026 +0100
+| | 
+| |     Merge pull request #1 from Arabarum727/new-branch
+| |     
+| |     new branch commit2
+| | 
+| * commit 550fe6bcd6dda7e36ce672c7ca7d53c84ed7dc8f (origin/new-branch, new-branch)
+|/  Author: Arabarum727 <jernejzagernik@proton.me>
+|   Date:   Fri Jan 16 10:58:41 2026 +0100
+|   
+|       new branch commit2
+| 
+* commit 573cf2a40c7688146b96c298fd517ff6c0dfd933
+| Author: Arabarum727 <jernejzagernik@proton.me>
+| Date:   Fri Jan 16 10:38:28 2026 +0100
+| 
+|     second commit
+| 
+* commit ababd9dc07bb46840a05fec6644f9bfe61529a0f
+  Author: Arabarum727 <jernejzagernik@proton.me>
+  Date:   Fri Jan 16 10:25:39 2026 +0100
+  
+      first commit
