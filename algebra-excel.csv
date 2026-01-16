@@ -1,0 +1,16 @@
+Work item type ;description;To do;in Progress;stage
+Epic;Passanger;;;
+User Story;Commute with ease and convenience;;;
+Task;;Mobile application with NFC connectivity to IoT devices for easy registration;O;Done
+Task;;5 Different languages ;O;Done
+Task;;Show real time schedules based on the passengers location;O;Done
+Task;;show live tracking of transport vehicles via GPS;X;In Progress
+Task;;Tab for reporting unusual activity at the transport vehicles and stops;O;Done
+Task;;Encryption for the NFC IoT connection;X;In Progress
+Epic;Transit Operator;;;
+User Story;Editing lines and stops analyzing passenger data;;;
+Task;;Web application in 2 languages ;O;Done
+Task;;Managing public routes and stops inside the app;O;Done
+Task;;Notifications tab for extraordinary traffic conditions;X;In Progress
+Task;;Collecting and visualising passenger data ;X;In Progress
+Task;;Safe data collection and encryption within GDPR limits;X;In Progress
